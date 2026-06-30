@@ -1,6 +1,6 @@
 # ccn-fabric-schemas
 
-The **single source of truth** for the CCN fabric: the domain schemas, message and
+The **single source of truth** for the CCN on Beckn fabric: the domain schemas, message and
 action shapes, and network/registry configuration that every node on the network
 agrees on. The reference CC system and all edge coordinators consume a **pinned
 release** of this repo.
